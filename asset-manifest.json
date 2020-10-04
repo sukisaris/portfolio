@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b32cd344.chunk.css",
-    "main.js": "/portfolio/static/js/main.0eb03174.chunk.js",
+    "main.css": "/portfolio/static/css/main.50a599b9.chunk.css",
+    "main.js": "/portfolio/static/js/main.2eaa501a.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js": "/portfolio/static/js/2.6dc4ecef.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d9ce259961e84e72fe624db797719ab8.js": "/portfolio/precache-manifest.d9ce259961e84e72fe624db797719ab8.js",
+    "precache-manifest.64b501fe439262e131bea6476f337375.js": "/portfolio/precache-manifest.64b501fe439262e131bea6476f337375.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.6dc4ecef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6dc4ecef.chunk.js.LICENSE.txt",
     "static/media/coronainfo.png": "/portfolio/static/media/coronainfo.7375de8a.png",
     "static/media/landingpage.png": "/portfolio/static/media/landingpage.d7a67ffe.png",
-    "static/media/landingpage2.png": "/portfolio/static/media/landingpage2.2861b047.png"
+    "static/media/lanp2.png": "/portfolio/static/media/lanp2.a49dd3a3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js",
-    "static/css/main.b32cd344.chunk.css",
-    "static/js/main.0eb03174.chunk.js"
+    "static/css/main.50a599b9.chunk.css",
+    "static/js/main.2eaa501a.chunk.js"
   ]
 }
