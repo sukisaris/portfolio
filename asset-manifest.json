@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.50a599b9.chunk.css",
+    "main.css": "/portfolio/static/css/main.deb347c7.chunk.css",
     "main.js": "/portfolio/static/js/main.2eaa501a.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js": "/portfolio/static/js/2.6dc4ecef.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.64b501fe439262e131bea6476f337375.js": "/portfolio/precache-manifest.64b501fe439262e131bea6476f337375.js",
+    "precache-manifest.7e38ddc6549bc0afd3169929a059f247.js": "/portfolio/precache-manifest.7e38ddc6549bc0afd3169929a059f247.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.6dc4ecef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6dc4ecef.chunk.js.LICENSE.txt",
     "static/media/coronainfo.png": "/portfolio/static/media/coronainfo.7375de8a.png",
@@ -15,7 +15,7 @@
   "entrypoints": [
     "static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js",
-    "static/css/main.50a599b9.chunk.css",
+    "static/css/main.deb347c7.chunk.css",
     "static/js/main.2eaa501a.chunk.js"
   ]
 }
