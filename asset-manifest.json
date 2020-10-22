@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.deb347c7.chunk.css",
-    "main.js": "/portfolio/static/js/main.2eaa501a.chunk.js",
+    "main.js": "/portfolio/static/js/main.c558894d.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js": "/portfolio/static/js/2.6dc4ecef.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.7e38ddc6549bc0afd3169929a059f247.js": "/portfolio/precache-manifest.7e38ddc6549bc0afd3169929a059f247.js",
+    "precache-manifest.bc4eeeedbf6bb5b1e52c2270bdb22444.js": "/portfolio/precache-manifest.bc4eeeedbf6bb5b1e52c2270bdb22444.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.6dc4ecef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6dc4ecef.chunk.js.LICENSE.txt",
     "static/media/coronainfo.png": "/portfolio/static/media/coronainfo.7375de8a.png",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6c29f35c.js",
     "static/js/2.6dc4ecef.chunk.js",
     "static/css/main.deb347c7.chunk.css",
-    "static/js/main.2eaa501a.chunk.js"
+    "static/js/main.c558894d.chunk.js"
   ]
 }
