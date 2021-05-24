@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7a458b5a.chunk.css",
-    "main.js": "/portfolio/static/js/main.f214fddc.chunk.js",
+    "main.css": "/portfolio/static/css/main.1ad5278c.chunk.css",
+    "main.js": "/portfolio/static/js/main.dfe8b633.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76e0550d.js",
-    "static/js/2.ca3620ce.chunk.js": "/portfolio/static/js/2.ca3620ce.chunk.js",
+    "static/js/2.3079709f.chunk.js": "/portfolio/static/js/2.3079709f.chunk.js",
     "static/js/3.c7f83fb3.chunk.js": "/portfolio/static/js/3.c7f83fb3.chunk.js",
     "index.html": "/portfolio/index.html",
-    "static/js/2.ca3620ce.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ca3620ce.chunk.js.LICENSE.txt",
+    "static/js/2.3079709f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3079709f.chunk.js.LICENSE.txt",
     "static/media/foto.9c895c1f.jpg": "/portfolio/static/media/foto.9c895c1f.jpg",
     "static/media/laundry.b0326a6b.png": "/portfolio/static/media/laundry.b0326a6b.png",
     "static/media/perpustakaan.2c4ca726.png": "/portfolio/static/media/perpustakaan.2c4ca726.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76e0550d.js",
-    "static/js/2.ca3620ce.chunk.js",
-    "static/css/main.7a458b5a.chunk.css",
-    "static/js/main.f214fddc.chunk.js"
+    "static/js/2.3079709f.chunk.js",
+    "static/css/main.1ad5278c.chunk.css",
+    "static/js/main.dfe8b633.chunk.js"
   ]
 }
