@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1d89c454.chunk.css",
-    "main.js": "/portfolio/static/js/main.7520b296.chunk.js",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.76e0550d.js",
-    "static/js/2.09af3f98.chunk.js": "/portfolio/static/js/2.09af3f98.chunk.js",
-    "static/js/3.c7f83fb3.chunk.js": "/portfolio/static/js/3.c7f83fb3.chunk.js",
+    "main.css": "/portfolio/static/css/main.d31c9f6e.chunk.css",
+    "main.js": "/portfolio/static/js/main.90c65b81.chunk.js",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.978e7f64.js",
+    "static/js/2.bd604d7b.chunk.js": "/portfolio/static/js/2.bd604d7b.chunk.js",
+    "static/js/3.cadf1bc0.chunk.js": "/portfolio/static/js/3.cadf1bc0.chunk.js",
     "index.html": "/portfolio/index.html",
-    "static/js/2.09af3f98.chunk.js.LICENSE.txt": "/portfolio/static/js/2.09af3f98.chunk.js.LICENSE.txt",
-    "static/media/foto.d55756bf.jpg": "/portfolio/static/media/foto.d55756bf.jpg",
-    "static/media/laundry.b0326a6b.png": "/portfolio/static/media/laundry.b0326a6b.png",
-    "static/media/perpustakaan.2c4ca726.png": "/portfolio/static/media/perpustakaan.2c4ca726.png"
+    "static/js/2.bd604d7b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bd604d7b.chunk.js.LICENSE.txt",
+    "static/media/foto.jpg": "/portfolio/static/media/foto.d55756bf.jpg",
+    "static/media/laundry.png": "/portfolio/static/media/laundry.b0326a6b.png",
+    "static/media/perpustakaan.png": "/portfolio/static/media/perpustakaan.2c4ca726.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.76e0550d.js",
-    "static/js/2.09af3f98.chunk.js",
-    "static/css/main.1d89c454.chunk.css",
-    "static/js/main.7520b296.chunk.js"
+    "static/js/runtime-main.978e7f64.js",
+    "static/js/2.bd604d7b.chunk.js",
+    "static/css/main.d31c9f6e.chunk.css",
+    "static/js/main.90c65b81.chunk.js"
   ]
 }
